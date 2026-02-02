@@ -48,7 +48,7 @@ for(let i = 1 ; i <= 50 ; i++){
        console.log(i);
     }
 }
-console.log(evenNumber);
+console.log("Tổng của tất cả các số đã in ra chữ "Fizz" là:" + evenNumber);
 
  
 
